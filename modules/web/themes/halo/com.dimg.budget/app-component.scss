@@ -1,0 +1,5 @@
+@import "halo-ext";
+
+@mixin com_dimg_budget {
+  @include com_dimg_budget-halo-ext;
+}
